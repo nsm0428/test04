@@ -1,6 +1,3 @@
 공통키근사용
-<<<<<<< HEAD
 a-branch 기능 추가
-=======
 b-branch 기능 추가
->>>>>>> b-branch
